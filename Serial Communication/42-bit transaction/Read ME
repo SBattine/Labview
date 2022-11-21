@@ -1,0 +1,3 @@
+transmiting a hex word as input
+Test VI: changed the size of array from 8 to 6 [compared to Word transmission VI] as the data is being messed up at the end.
+No Index VI: has no index to array at the output just trying to see if the data from input is coming accurately at the output as well.
